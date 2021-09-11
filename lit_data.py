@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 
 
-data = pd.read_csv(r'/home/eliud_luda/Desktop/Moringa_Prep/W5_prep/final_data.csv')
+data = pd.read_csv(r'final_data.csv')
 
 df = pd.DataFrame(data)
 
